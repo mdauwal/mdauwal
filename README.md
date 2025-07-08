@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi buddy 👋, I'm MD Tech</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🔬 Scalable App Architect | 🇳🇬 Nigeria</h3>
 
-<!--
-**mdauwal/mdauwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdauwal&label=Profile%20views&color=0e75b6&style=flat" alt="mdtech" />
+  <a href="https://github.com/mdauwal?tab=followers">
+    <img src="https://img.shields.io/github/followers/mdauwal?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧠 **About Me**
+
+- 🔭 I’m currently working on **real-time apps**, **AI integrations**, and **Web3 systems**
+- 💡 I love designing **clean APIs** and crafting **beautiful UIs** with React + Tailwind
+- 📚 Currently learning: **Kubernetes**, **Advanced Redis**, **Scalable Architecture**
+- 👯 I’m open to collaboration on **open-source**, **hackathons**, and **teaching sessions**
+- 🧩 Fun fact: I automate everything, even coffee-making ☕
+
+---
+
+🛠️ **Tech Stack**
+
+```ts
+// Frontend
+React • Next.js • Tailwind CSS • TypeScript • Zustand
+
+// Backend
+NestJS • Node.js • PostgreSQL • MySQL • REST • GraphQL • WebSocket
+
+// Tools & Infra
+Docker • Redis • GitHub Actions • PM2 • Nginx • Linux
+
+// Others
+Jest • Cypress • Swagger • Postman • Figma • Git
