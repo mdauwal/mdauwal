@@ -26,7 +26,7 @@
 
 <!-- Custom Contribution Calendar -->
 <p align="center">
-  <img src="https://github-contribution-graph.ezra.sh/api?username=mdtech&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=58a6ff" />
+  <img src="https://github-contribution-graph.ezra.sh/api?username=mdauwal&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=58a6ff" />
 </p>
 
 ---
